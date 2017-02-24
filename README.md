@@ -1,2 +1,5 @@
 # hello-world
-This is a training repository
+
+Hi everyone !
+
+Thibault here, I live for data and coffee.
